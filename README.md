@@ -10,7 +10,7 @@ convert to onxx and rename to resnet18_e34.onnx, the labels.txt file should be a
 
 start with: ./tsr-camera.py --model=resnet18_e34.onnx --input_blob=input_0 --output_blob=output_0 --labels=labels.txt
 
-use at your own risk and don't blame me for your speeding tickets
+# use at your own risk and don't blame me for your speeding tickets!
 
 contact me if you want to use my trained model, I get over 99% accuracy.
 
